@@ -1,0 +1,48 @@
+Login/Account Creation
+•	Login:
+    o	Username
+    o	Password
+    o	Forget Password
+    o	Login Button
+    o	Don’t have an account: click here
+•	Account Creation:
+    o	Email
+    o	Username
+    o	Password
+    o	Create Button
+•	Account Saving (later)
+
+Home
+•	News
+•	Navigation Boxes when scrolled down
+•	Also Navigation bar
+•	Theme Changing (Light/Dark Mode)
+
+Forum
+•	General Section
+•	All Classes -> Advanced Classes under those “Classes”
+•	Pin posts
+•	Sort posts by dates, popularity, likes/views
+•	Create post GUI
+    o	Name
+    o	Main textbox message
+    o	File uploads
+    o	Post
+•	Comments
+
+Tools
+•	Helpful Links:
+    o	Lostark.nexus
+    o	New player guides
+    o	Maxrolls:
+        	Islands
+        	Adventure Tomes: Link to each one specifics
+    o	Useful Discords
+        	LFG Discord
+        	Official Lost Ark Discord
+•	Weekly Planners (self made)
+•	Simple Crafting Calculator
+    o	Calculates profits/lost for life skills stuff
+
+Bugs
+
