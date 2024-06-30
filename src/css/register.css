@@ -1,0 +1,10 @@
+body {
+    background-color:gray;
+}
+
+#container {
+    text-align: center;
+    background-color:rgb(29, 28, 28);
+    border: 3ren;
+    border-radius: 3ren;
+}
