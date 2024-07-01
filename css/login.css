@@ -1,10 +1,47 @@
 body {
-    background-color:gray;
+    background-image: url("../images/hhhhh.jpg");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
 }
 
 #container {
+    width: 420px;
+    color:white;
+    border: 2px solid white;
+}
+
+#loginHeader {
+    font-size: 35px;
     text-align: center;
-    background-color:rgb(29, 28, 28);
-    border: 3ren;
-    border-radius: 3ren;
+}
+
+.info {
+    border-radius: 10px;
+    height: 25px;
+    background: transparent;
+    border: 2px solid white;
+    width: 98%;
+    margin: 0;
+    height: 45px;
+    font-size: 20px;
+}
+
+#userImage {
+    position: absolute;
+    width: 1,9%;
+    height: 2%;
+    top: 47%;
+    right: 39.5%;
+}
+
+#passImage {
+    position: absolute;
+    width: 1%;
+    height: 2%;
+    top: 54%;
+    right: 39.5%;
 }
